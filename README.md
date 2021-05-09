@@ -1,1 +1,1 @@
-# JavaRepoPractise
+# MyProjects
