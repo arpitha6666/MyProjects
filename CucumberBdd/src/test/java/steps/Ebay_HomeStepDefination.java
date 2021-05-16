@@ -21,6 +21,5 @@ public void i_click_on_advanced_link() {
 @Then("I navigate to Advanced search page")
 public void i_navigate_to_advanced_search_page() {
 	System.out.println("I navigate to Advanced search page");
-
 }
 }
