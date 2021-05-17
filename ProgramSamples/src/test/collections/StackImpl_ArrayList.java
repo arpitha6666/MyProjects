@@ -23,11 +23,47 @@ public class StackImpl_ArrayList {
 	}
 	
 	
+	public int peek() {
+		if(!this.isEmpty())
+			return arr[top];
+		else {
+			System.out.println("Stack is empty");
+			return -1;
+		}
+	}
 	
+	public void push (int element) {
+		if(!this.isFull()) {
+			top++;
+			arr[top]=element;
+			System.out.println("Pushed element "+element);
+		}else
+			System.out.println("Stack is full");
+	}
+	
+	public int pop() {
+		if(!isEmpty()) {
+			int returnedTop = top;
+			top--;
+			System.out.println("Popped element "+ arr[returnedTop]);
+			return arr[returnedTop];
+		}
+		else {
+			System.out.println("Stack is empty");
+			return -1;
+		}
+	}
 	
 	public static void main(String[] args) {
 		
 		StackImpl_ArrayList obj = new StackImpl_ArrayList(10);
+		obj.push(5);
+		obj.push(8);
+		obj.push(11);
+		
+		obj.pop();
+		
+		
 		
 	}
 
