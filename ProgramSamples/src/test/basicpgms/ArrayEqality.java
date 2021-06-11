@@ -14,7 +14,26 @@ public class ArrayEqality {
 			System.out.println("Arrays are equal");
 		else
 			System.out.println("Arrays are unequal");
+		
+		
+		System.out.println("Without Arrays class..");
 
+		boolean status =true;
+		if(a1.length!=a2.length) {
+			status=false;
+		}else {
+			for(int i=0;i<a1.length;i++) {
+				if(a1[i]!=a2[i]) {
+					status=false;
+					break;
+				}
+			}
+		}
+		if(status)
+			System.out.println("Arrays are equal");
+		else
+			System.out.println("Arrays are unequal");
+		
 	}
 
 }
