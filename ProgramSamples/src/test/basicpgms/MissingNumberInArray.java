@@ -9,7 +9,7 @@ public class MissingNumberInArray {
 	
 	/*Approach :1. Find the sum of the elements in the array
 	 * 2. Find the sum of the numbers in natural order 
-	 * 3.Find the difference between the sum calulated in step2 and step1., this is the missing number in the array
+	 * 3.Find the difference between the sum calculated in step2 and step1., this is the missing number in the array
 	 */
 	public static void main(String[] args) {
 		int a[] = {1,2,3,4,5,7,8};
