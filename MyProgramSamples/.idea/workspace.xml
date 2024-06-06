@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8549543-7f53-464f-81cb-338266655ef5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AllureReport/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KarateTestFW/KarateTestFW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/ArrayEqality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/CountDigitsInANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/EvenNOddDigitsInNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/EvenOddFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/LargestOfThreeNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/MaxAndMinElementsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/MissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/MoveZerosToEndOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/RemoveExtraSpaceBetweenWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/SumOfArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/SumOfDigitsInNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicpgms/SwapWithoutTempVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/QueueImpl_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/StackImpl_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/possibleOutput/FloatingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/possibleOutput/UseOfLongL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/SplitStringPreservingInvertedCommas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/ArrayEqality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/CountDigitsInANumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/EvenNOddDigitsInNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/EvenOddFromArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/FibonacciSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/LargestOfThreeNums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/MaxAndMinElementsInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/MissingNumberInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/MoveZerosToEndOfArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/PalindromeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/PalindromeString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/RemoveExtraSpaceBetweenWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/SumOfArrayElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/SumOfDigitsInNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/basicpgms/SwapWithoutTempVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/collections/QueueImpl_ArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/collections/StackImpl_ArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/possibleOutput/FloatingNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/possibleOutput/UseOfLongL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/strings/ReverseWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/strings/SplitStringPreservingInvertedCommas.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hVStRCMmRkifNgv1m2mQCgKDx7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/MyProjects/ProgramSamples/src/main/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyProjects\ProgramSamples\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ArrayEqality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicpgms.ArrayEqality" />
+      <module name="MyProgramSamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicpgms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MyProgramSamples" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MyProgramSamples" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayEqality" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8549543-7f53-464f-81cb-338266655ef5" name="Changes" comment="" />
+      <created>1717677965442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717677965442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
