@@ -10,5 +10,6 @@ public class JsonToJava {
         CustomerDetailsAppium cs =
                 mapper.readValue(System.getProperty("user.dir")+"\\CustomerDetails0.json", CustomerDetailsAppium.class);
         System.out.println(cs.getStudentName());
+
     }
 }

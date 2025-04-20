@@ -2,7 +2,6 @@ package main.java.transactions;
 
 
 public class CustomerDetails {
-
     private String courseName;
     private String purchasedDate;
     private int Amount;

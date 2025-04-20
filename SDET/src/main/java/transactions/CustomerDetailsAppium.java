@@ -9,7 +9,6 @@ public class CustomerDetailsAppium {
 
     private String studentName;
 
-
     public void setStudentName(String studentName) {
         this.studentName = studentName;
     }

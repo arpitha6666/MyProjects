@@ -20,7 +20,6 @@ public class JavaToJson {
         // TODO Auto-generated method stub
 //        Class.forName("com.mysql.cj.jdbc.Driver");
 //        Connection conn=null;
-//
 //        ArrayList<CustomerDetails> a=new ArrayList<CustomerDetails>();
 //
 //        conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/Business", "root", "root");
